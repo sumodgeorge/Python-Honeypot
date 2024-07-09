@@ -7,3 +7,4 @@ watchdog==0.10.3
 pyshark==0.4.2.11
 oschmod==0.3.9
 argparse==1.4.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
